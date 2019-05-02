@@ -24,6 +24,12 @@ OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, 
 ![image](https://user-images.githubusercontent.com/29988949/57097017-75154580-6ccb-11e9-9c1a-c0811c6e3cff.png)
 `Shopping Cart`
 
+![image](https://user-images.githubusercontent.com/29988949/57097708-47c99700-6ccd-11e9-9225-fe696fb6c625.png)
+`Delivery Page` Customer can choose delivery option
+
+![image](https://user-images.githubusercontent.com/29988949/57097902-b73f8680-6ccd-11e9-95bf-423b990a7b16.png)
+`Payment Page` Customer can pay with credit card, cash and paypal
+
 ![image](https://user-images.githubusercontent.com/29988949/57096349-e8b65300-6cc9-11e9-8f9b-a1fe64e2c156.png)
 `Admin Panel`
 
