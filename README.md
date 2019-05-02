@@ -15,10 +15,13 @@ OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, 
 </p>
 
 ![day](https://user-images.githubusercontent.com/29988949/57095418-a68c1200-6cc7-11e9-8c1e-c581c6a362a7.PNG)
-index.php
+`index.php`
 
 ![image](https://user-images.githubusercontent.com/29988949/57096124-54e48700-6cc9-11e9-8f3c-c52441975fe3.png)
-product.php
+`product.php`
+
+![image](https://user-images.githubusercontent.com/29988949/57096349-e8b65300-6cc9-11e9-8f9b-a1fe64e2c156.png)
+`Admin Panel`
 
 
 ## Installation
