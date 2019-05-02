@@ -1,0 +1,35 @@
+.btn-warning {
+    color: #fff;
+    background-color: #009688 ;
+    border-color: #009688 ;
+}
+
+.btn-warning:hover {
+  color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+.btn-warning:focus {
+   color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #2c3e50 ;
+    border-color: #2c3e50 ;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-default:focus {
+   color: #fff;
+  background-color: #000;
+  border-color: #000;
+}

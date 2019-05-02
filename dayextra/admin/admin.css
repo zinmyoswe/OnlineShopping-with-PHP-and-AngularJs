@@ -1,0 +1,49 @@
+.btn-primary {
+    color: #fff;
+    background-color: #00bcd4 ;
+    border-color: #00bcd4 ;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #03a9f3;
+  border-color: #03a9f3;
+}
+
+.btn-primary:focus {
+   color: #fff;
+  background-color: #03a9f3;
+  border-color: #03a9f3;
+}
+
+.btn-warning {
+    color: #fff;
+    background-color: #009688 ;
+    border-color: #009688 ;
+}
+
+.btn-warning:hover {
+  color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+.btn-warning:focus {
+   color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+
+#dis{
+	color: #455a64;
+	font-weight: bold;
+	
+	font-style: Arial;
+}
+
+#dis small{
+	color: black;
+	font-weight: normal;
+
+}

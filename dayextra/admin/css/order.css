@@ -1,0 +1,200 @@
+
+ul.list {
+  list-style: none;
+  margin: 20px;
+  padding: 0;
+}
+
+ul.list li {
+  overflow: hidden;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+ul.list b {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: #2980B9;
+}
+
+ul.list i, ul.list small {
+  color: #888;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+ul.list span {
+  color: #8E44AD;
+}
+
+ul.list div {
+  margin: 5px 0;
+  font-size: 13px;
+  line-height: 1.5em;
+  color: #555;
+}
+
+ul.list img {
+  margin-left: 20px;
+}
+
+ul.list a {
+  color: #2980B9;
+}
+
+ul.list a.del {
+  color: #D35400;
+}
+
+a.new {
+  display: block;
+  padding: 8px 0;
+  text-align: center;
+  width: 160px;
+  margin: 10px;
+  color: #fff;
+  background: #1ABC9C;
+  border: 1px solid #ccc;
+  text-decoration: none;
+}
+
+form {
+  margin: 20px;
+}
+
+form label {
+  display: block;
+  margin-top: 10px;
+  color: #555;
+}
+
+input[type=text],
+input[type=password],
+textarea,
+select {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 1px solid #ddd;
+  padding: 6px;
+  width: 300px;
+  background: #fff;
+}
+
+textarea {
+  height: 100px;
+}
+
+input[type=submit] {
+  padding: 10px 24px;
+  margin-right: 10px;
+}
+
+ul.menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #16A085;
+}
+
+ul.menu li {
+  float: left;
+  border-right: 1px solid #1ABC9C;
+}
+
+ul.menu a {
+  display: block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: #fff;
+}
+
+ul.menu a:hover {
+  background: #1ABC9C;
+}
+
+ul.orders {
+  list-style: none;
+  margin: 20px;
+  padding: 0;
+  line-height: 1.5em;
+}
+
+ul.orders li {
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-bottom: 10px;
+  overflow: hidden;
+  font-size: 15px;
+}
+
+ul.orders .order {
+  float: left;
+  width: 250px;
+  border-right: 1px dotted #ddd;
+  margin-right: 20px;
+}
+
+ul.orders .items {
+  float: left;
+  width: 700px;
+}
+
+ul.orders b,
+ul.orders i,
+ul.orders span {
+  display: block;
+}
+
+ul.orders .items a {
+  font-weight: normal;
+  margin-right: 6px;
+}
+
+ul.orders .items b {
+  border-bottom: 1px dotted #ddd;
+  line-height: 1.8em;
+}
+
+ul.orders li.delivered {
+  color: #999;
+}
+
+li.delivered .order b,
+li.delivered .order i,
+li.delivered .order p,
+li.delivered .order span {
+  text-decoration: line-through;
+}
+
+a.new {
+	float: left;
+}
+
+div.paging {
+	float: right;
+	margin: 15px 20px 0 0;
+}
+
+div.paging a, div.paging span {
+	margin-left: 10px;
+}
+
+div.error {
+	text-align: center;
+	font-size: 14px;
+	margin: 10px 20px;
+	background: #ffd;
+	border: 1px solid #950;
+	color: #950;
+	font-weight: bold;
+	padding: 8px 0;
+}
+
+label.error {
+	color: #900;
+	font-size: 13px;
+	font-style: italic;
+	margin-top: -1px;
+}

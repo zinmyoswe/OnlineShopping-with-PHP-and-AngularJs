@@ -1,0 +1,58 @@
+/*warning button*/
+.btn-warning {
+    color: #fff;
+    background-color: #009688 ;
+    border-color: #009688 ;
+}
+
+.btn-warning:hover {
+  color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+.btn-warning:focus {
+   color: #fff;
+  background-color: #00796b;
+  border-color: #00796b;
+}
+
+/*default button*/
+.btn-default {
+    color: #fff;
+    background-color: #2c3e50 ;
+    border-color: #2c3e50 ;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+.btn-default:focus {
+   color: #fff;
+  background-color: #000;
+  border-color: #000;
+}
+
+/*alert success*/
+.bg-green, .callout.callout-success, .alert-success, .label-success, .modal-success .modal-body {
+    background-color: #8bc34a !important;
+}
+
+.alert-success {
+    border-color: #8bc34a;
+}
+
+/*admin image*/
+.widget-user .box-footer {
+    padding-top: 60px;
+}
+/*img circle*/
+
+.widget-user .widget-user-image > img {
+    width: 90px;
+    height: 95px;
+    border: 3px solid #fff;
+}
