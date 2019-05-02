@@ -1,9 +1,9 @@
 # OnlineShopping-with-PHP-and-AngularJs
 OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, AJAX , Sweetalerts2 and Other JS Library
 
-<p align="center">
+
  ![php](https://user-images.githubusercontent.com/29988949/57095385-91af7e80-6cc7-11e9-9187-9a8d1e2127be.png)
- ![angular](https://user-images.githubusercontent.com/29988949/57095401-9d9b4080-6cc7-11e9-8c87-f303c3bdcdb5.png)</p>
+ ![angular](https://user-images.githubusercontent.com/29988949/57095401-9d9b4080-6cc7-11e9-8c87-f303c3bdcdb5.png)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
