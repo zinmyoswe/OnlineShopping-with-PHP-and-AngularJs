@@ -32,7 +32,7 @@ OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, 
 
 ## Installation
  - Built database name as `dayextra`
- - dayextra.sql is copy and paste it in phpmyadmin
+ - Copy `dayextra.sql` and paste it in phpmyadmin
  - Run `http://localhost/dayextra/` in browser for customer
  - Run `http://localhost/dayextra/admin` in browser for admin
  - Done Enjoy!!! Online Shopping application...
