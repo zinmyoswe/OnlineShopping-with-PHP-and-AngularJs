@@ -31,17 +31,11 @@ OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, 
 
 
 ## Installation
- - Clone the repo git clone (https://github.com/zinmyoswe/multiuse.git).
- - `cd` to Project Folder
- - Run `composer install`
- - Save as `.env.example` to `.env` and set `your database` information
- - Run `php artisan key:generate`
- - Run `npm install`
- - Run `php artisan migrate`
- - Run `php artisan serve`
- - Run `npm run watch`
- - Run `php artisan passport:install`
- - Done Enjoy!!! multipurpose of application
+ - Built database name as `dayextra`
+ - dayextra.sql is copy and paste it in phpmyadmin
+ - Run `http://localhost/dayextra/` in browser for customer
+ - Run `http://localhost/dayextra/admin` in browser for admin
+ - Done Enjoy!!! Online Shopping application...
   
 
 ## License
