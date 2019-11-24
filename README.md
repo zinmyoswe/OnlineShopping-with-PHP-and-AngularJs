@@ -18,6 +18,9 @@ OnlineShopping developed with PHP,MYSQL, AnuglarJS, VueJS, Bootstrap4,  JQUERY, 
 ![image](https://user-images.githubusercontent.com/29988949/57096124-54e48700-6cc9-11e9-8f3c-c52441975fe3.png)
 `product.php`
 
+![image](https://user-images.githubusercontent.com/29988949/69490809-7feb1f80-0e41-11ea-8c74-8dfe5aeff09d.png)
+`Product Detail Page`
+
 ![image](https://user-images.githubusercontent.com/29988949/57096550-6e3a0300-6cca-11e9-9dc7-8adf6077509f.png)
 `SOLD OUT Modal`
 
